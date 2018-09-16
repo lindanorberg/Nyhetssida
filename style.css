@@ -1,0 +1,44 @@
+.allNews {
+	display: flex;
+	width: 100%;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+.news {
+	width: 35%;
+	margin: 20px;
+}
+
+img {
+	max-width: 300px;
+}
+
+.readMoreButton {
+	border-radius: 8px;
+	padding: 12px 28px;
+	font-size: 12px;
+	background-color: #b3b3b3;
+	color: white;
+	font: bold;
+
+}
+
+h1{
+	font-family: verdana;
+	font-size: 50px;
+	display: flex;
+	justify-content: center;
+	margin-top: 50px;
+}
+
+h2{
+	font-family: arial;
+	font-size: 15px;
+}
+
+h3{
+	font-family: arial;
+	font-size: 10px;
+}
